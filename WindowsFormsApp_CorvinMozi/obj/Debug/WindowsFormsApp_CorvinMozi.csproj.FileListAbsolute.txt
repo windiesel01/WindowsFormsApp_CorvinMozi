@@ -1,0 +1,11 @@
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.csproj.AssemblyReference.cache
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.csproj.SuggestedBindingRedirects.cache
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.Form1.resources
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.Properties.Resources.resources
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.csproj.GenerateResource.cache
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.csproj.CoreCompileInputs.cache
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\bin\Debug\WindowsFormsApp_CorvinMozi.exe.config
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\bin\Debug\WindowsFormsApp_CorvinMozi.exe
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\bin\Debug\WindowsFormsApp_CorvinMozi.pdb
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.exe
+C:\Users\main\source\repos\WindowsFormsApp_CorvinMozi\WindowsFormsApp_CorvinMozi\obj\Debug\WindowsFormsApp_CorvinMozi.pdb
